@@ -52,7 +52,6 @@ public class JsonActivity extends AppCompatActivity {
                 data+="-----------------------------------------------------";
                 textview.append(data);
 
-
             }
 
             }
